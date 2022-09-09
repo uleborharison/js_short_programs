@@ -1,0 +1,19 @@
+/* 
+    .diva {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        /* margin-top: -40px; */
+        /* margin-top: 50px; */
+        font-size:10vw;
+        font-weight: 2px;
+      } */
+      body {
+        margin: auto;
+        padding: auto;
+      }
+
+.diva {
+    text-align: center;
+}

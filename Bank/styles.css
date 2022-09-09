@@ -1,0 +1,34 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-content: centers;
+background-color:blueviolet;
+}
+.hint {
+    padding: 40px 40px;
+    color: black;
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25%;
+    text-align: center;
+    
+}
+.sec {
+    background-color: bisque;
+}
+.data, .dat {
+    padding: 3px 5px;
+    border-radius: 10px;
+}
+.dat {
+    color: black;
+     background-color: bisque;
+}
+.dat:hover{
+    background-color: red;
+    color: blue;
+}
